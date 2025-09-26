@@ -1,0 +1,5 @@
+{
+  "name": "Tolling Demand & Traffic Management Dashboard",
+  "description": "An interactive dashboard for ITS analysts to monitor and manage tolling points in a city/highway network. It visualizes vehicle passages, toll transactions, congestion patterns, and provides predictive demand analysis using Gemini.",
+  "requestFramePermissions": []
+}
